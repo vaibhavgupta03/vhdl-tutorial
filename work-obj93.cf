@@ -1,7 +1,0 @@
-v 3
-file . "adder.vhd" "20260113181812.000" "20260113234820.185":
-  entity adder at 1( 0) + 0 on 25;
-  architecture behavioral of adder at 13( 271) + 0 on 26;
-file . "testadder.vhd" "20260113181656.000" "20260113234821.066":
-  entity adder_tb at 1( 0) + 0 on 27;
-  architecture sim of adder_tb at 8( 111) + 0 on 28;

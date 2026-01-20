@@ -1,0 +1,7 @@
+v 3
+file . "halfAdder_tb.vhd" "20260120144238.000" "20260120201239.655":
+  entity half_adder_tb at 1( 0) + 0 on 15;
+  architecture sim of half_adder_tb at 7( 96) + 0 on 16;
+file . "halfAdder.vhd" "20260120143546.000" "20260120201219.752":
+  entity half_adder at 1( 0) + 0 on 13;
+  architecture rtl of half_adder at 12( 200) + 0 on 14;
