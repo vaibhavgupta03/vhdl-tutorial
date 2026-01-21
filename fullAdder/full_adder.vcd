@@ -1,0 +1,79 @@
+$date
+  Wed Jan 21 21:24:02 2026
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$var reg 1 ! a $end
+$var reg 1 " b $end
+$var reg 1 # c_in $end
+$var reg 1 $ sum $end
+$var reg 1 % c_out $end
+$scope module uut $end
+$var reg 1 & a $end
+$var reg 1 ' b $end
+$var reg 1 ( c_in $end
+$var reg 1 ) sum $end
+$var reg 1 * c_out $end
+$upscope $end
+$enddefinitions $end
+#0
+0!
+0"
+0#
+0$
+0%
+0&
+0'
+0(
+0)
+0*
+#10000000
+1#
+1$
+1(
+1)
+#20000000
+1"
+0#
+1'
+0(
+#30000000
+1#
+0$
+1%
+1(
+0)
+1*
+#40000000
+1!
+0"
+0#
+1$
+0%
+1&
+0'
+0(
+1)
+0*
+#50000000
+1#
+0$
+1%
+1(
+0)
+1*
+#60000000
+1"
+0#
+1'
+0(
+#70000000
+1#
+1$
+1(
+1)
+#80000000
