@@ -54,8 +54,8 @@ The testbench simulates all input combinations and reports the results.
 
 If using a waveform viewer like GTKWave, you can generate a VCD file:
 ```
-ghdl -r half_adder_tb --vcd=half_adder.vcd
+ghdl -r your_testbench --vcd=vcd_filename.vcd
 ```
-Then open `half_adder.vcd` in GTKWave to visualize signal changes over time.
+Then open `vcd_file.vcd` in GTKWave to visualize signal changes over time.
 
 This tutorial provides a foundation for learning VHDL. Explore more complex examples as you progress!
