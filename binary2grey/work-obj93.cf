@@ -1,0 +1,7 @@
+v 3
+file . "binary2grey_tb.vhd" "20260124163152.000" "20260124220204.520":
+  entity binary2grey_tb at 1( 0) + 0 on 17;
+  architecture sim of binary2grey_tb at 7( 98) + 0 on 18;
+file . "binary2grey.vhd" "20260124161522.000" "20260124214523.999":
+  entity binary2grey at 1( 0) + 0 on 11;
+  architecture rtl of binary2grey at 11( 189) + 0 on 12;
