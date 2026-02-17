@@ -51,4 +51,3 @@ architecture sim of full_adder_tb is
     wait;
   end process;
 end sim;
-
